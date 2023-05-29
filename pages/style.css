@@ -1,0 +1,14 @@
+@font-face {
+
+    src : url("/EastSeaDokdo-Regular.ttf"); 
+    font-family: "dokdo" 
+
+}
+
+
+
+h1 {   
+
+  font-family: "dokdo";
+
+}
